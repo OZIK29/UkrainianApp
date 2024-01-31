@@ -24,4 +24,15 @@ The software follows an ASP.NET Core MVC (Model-View-Controller) architecture. T
 ![Diagram](./diagram3.png) This diagram defines and display various use cases that your system must support.
 
 ## Test cases
+![Test](./Test1.png) This test verifies that a new folklore entry can be successfully added to the database.
+![Test](./Test2.png) This test verifies that the API endpoint returns a list of folklore entries.
+
+## Used tools and technologies
+Programming Language: C#
+Framework: ASP.NET Core
+Database: Entity Framework Core with SQL Server
+IDE: Visual Studio
+
+## Conclusion
+The Ukrainian Folklore Database App's scope, architecture, design, test cases, and technologies are all covered in detail in this documentation. This document provides developers and stakeholders with a better knowledge of the project.
 
