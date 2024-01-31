@@ -19,3 +19,9 @@ locating and presenting already-existing folklore entries.
 The software follows an ASP.NET Core MVC (Model-View-Controller) architecture. This design ensures separation of concerns and modularity in handling requests, managing data, and presenting views.
 
 ## Software design and model(UML Diagrams)
+![Diagram](./diagram1.png) This diagram illustrates the structure of my system in terms of classes and their relationships.
+![Diagram](./diagram2.png) This diagram visualizes the interactions and order of events between different components or objects in a particular use case.
+![Diagram](./diagram3.png) This diagram defines and display various use cases that your system must support.
+
+## Test cases
+
